@@ -1,4 +1,4 @@
-def call(map param){
+def call(){
     def name = ''
     print('My name is:' ${name})
 }
