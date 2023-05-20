@@ -1,4 +1,4 @@
-def call(){
+def call(name){
     def name = ''
     println "${name}"
 }
